@@ -1,0 +1,56 @@
+.kiaalap-dashboard-v1-progress {
+    padding: 12px 0;
+}
+
+.kiaalap-dashboard-v1-chart {
+    overflow: hidden;
+}
+
+.university-earnings {
+    float: left;
+    width: 75%;
+    height: 480px;
+}
+
+.university-earnings > .inner {
+    background-color: #FFF;
+    margin: 0 12px;
+}
+
+.university-earnings > .inner .title {
+    overflow: hidden;
+    padding: 24px 12px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.university-earnings > .inner .title span:first-child {
+    float: left;
+}
+
+.university-earnings > .inner .title span:last-child {
+    font-size: 14px;
+    float: right;
+    font-weight: normal;
+}
+
+.towards-panel {
+    float: right;
+    width: 25%;
+    height: 480px;
+}
+
+.towards-panel > .inner {
+    margin: 0 12px;
+    height: inherit;
+}
+
+.kiaalap-dashboard-v1-social {
+    overflow: hidden;
+    padding: 12px 0;
+}
+
+.kiaalap-dashboard-v1-teacher {
+    overflow: hidden;
+    padding: 12px 0;
+}

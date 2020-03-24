@@ -1,0 +1,32 @@
+.towards-panel-item {
+    height: 102px;
+    margin-bottom: 24px;
+    background-color: #FFF;
+}
+
+.towards-panel-item > .inner {
+    overflow: hidden;
+}
+
+.towards-panel-item > .inner .title {
+    padding: 12px;
+    font-weight: bold;
+}
+
+.towards-panel-item > .inner .content {
+    overflow: hidden;
+    padding: 0 12px;
+}
+
+.towards-panel-item > .inner .num {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.towards-panel-item > .inner .content > div:first-child {
+    float: left;
+}
+
+.towards-panel-item > .inner .content > div:last-child {
+    float: right;
+}

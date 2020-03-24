@@ -1,0 +1,17 @@
+/* 菜单的滚动条隐藏 START */
+.kiaalap-left-side-menu {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    overflow: hidden;
+    background-color: #FFF;
+}
+
+.kiaalap-left-side-inner-menu {
+    width: 220px;
+    height: 100%;
+    overflow-y: scroll;
+}
+/* 菜单的滚动条隐藏 END */

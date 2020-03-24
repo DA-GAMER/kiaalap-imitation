@@ -1,0 +1,52 @@
+.kiaalap-courses-payment {
+    overflow: hidden;
+    padding: 12px 0;
+}
+
+.courses-payment {
+    float: left;
+    width: 33.33%;
+}
+
+.courses-payment > .inner {
+    margin: 0 12px;
+    padding: 4px 24px;
+    background-color: #FFF;
+}
+
+.courses-payment-common {
+    overflow: hidden;
+}
+
+.courses-payment-common > div:first-child {
+    float: left;
+}
+
+.courses-payment-common > div:last-child {
+    float: right;
+}
+
+.credit-card {
+    margin: 0 auto;
+    width: 350px;
+    height: 200px;
+    border-radius: 12px;
+    background-color: #DDD;
+}
+
+.credit-card-img .anticon {
+    font-size: 48px;
+    color: #CCC;
+}
+
+.debit-card-icon span {
+    padding-right: 6px;
+}
+
+.debit-card-icon .anticon {
+    font-size: 48px;
+}
+
+.debit-card-icon span:last-child .anticon{
+    font-size: 46px;
+}

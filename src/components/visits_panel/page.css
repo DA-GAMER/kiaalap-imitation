@@ -1,0 +1,20 @@
+.visits {
+    float: left;
+    width: 25%;
+}
+
+.visits > .inner {
+    margin: 0 12px;
+    padding: 12px;
+    background-color: #FFF;
+}
+
+.visits > .inner .title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.visits > .inner .val {
+    font-size: 24px;
+    font-weight: bold;
+}

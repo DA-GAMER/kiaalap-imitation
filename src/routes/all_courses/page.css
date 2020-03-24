@@ -1,0 +1,31 @@
+.kiaalap-all-courses {
+    padding: 12px 0;
+}
+
+.kiaalap-all-courses > .inner {
+    overflow: hidden;
+}
+
+.kiaalap-all-courses > .inner .all-courses {
+    float: left;
+    width: 25%;
+    margin-bottom: 24px;
+}
+
+.kiaalap-all-courses > .inner .all-courses > div {
+    margin: 0 12px;
+    background-color: #FFF;
+}
+
+.all-courses img {
+    width: 100%;
+}
+
+.all-courses-box {
+    padding: 12px;
+}
+
+.all-courses-box .all-courses-name {
+    font-size: 18px;
+    font-weight: bold;
+}

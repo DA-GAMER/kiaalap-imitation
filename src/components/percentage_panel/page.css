@@ -1,0 +1,35 @@
+.kiaalap-dashboard-v1-panel {
+    display: inline-block;
+    width: 25%;
+}
+
+.kiaalap-dashboard-v1-panel > .inner {
+    margin: 0 12px;
+    padding: 6px 12px;
+    background-color: #FFF;
+}
+
+.kiaalap-dashboard-v1-panel > .inner .title {
+    padding: 6px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.kiaalap-dashboard-v1-panel > .inner .progress {
+    padding: 6px 0;
+}
+
+.kiaalap-dashboard-v1-panel > .inner .price {
+    overflow: hidden;
+}
+
+.kiaalap-dashboard-v1-panel > .inner .price span:first-child {
+    font-size: 18px;
+    font-weight: bold;
+    float: left;
+}
+
+.kiaalap-dashboard-v1-panel > .inner .price span:last-child {
+    float: right;
+    padding-top: 4px;
+}

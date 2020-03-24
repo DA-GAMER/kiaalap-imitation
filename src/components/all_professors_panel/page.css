@@ -1,0 +1,63 @@
+.all-professors {
+    float: left;
+    width: 25%;
+}
+
+.all-professors > .inner {
+    margin: 0 12px;
+    padding: 12px;
+    background-color: #FFF;
+}
+
+.all-professors-header {
+    overflow: hidden;
+}
+
+.all-professors-header .left {
+    float: left;
+}
+
+.all-professors-header .right {
+    float: right;
+}
+
+.all-professors-header .left > div:first-child img{
+    width: 76px;
+    height: 76px;
+    border-radius: 76px;
+}
+
+.all-professors-header .left .name {
+    padding-top: 12px;
+    font-weight: bold;
+}
+
+.all-professors-header .right > div {
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 32px;
+    background-color: #006DF0;
+}
+
+.all-professors-header .right > div .anticon {
+    color: #FFF;
+}
+
+.all-professors > .inner .content {
+    padding-top: 8px;
+}
+
+.all-professors > .inner .btn {
+    padding-top: 12px;
+}
+
+.all-professors > .inner .btn button {
+    width: 100%;
+    padding: 8px 0;
+    border: none;
+    background-color: #006DF0;
+    color: #FFF;
+}

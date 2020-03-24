@@ -1,0 +1,14 @@
+.kiaalap-breadcrumb {
+    padding: 12px;
+}
+
+.kiaalap-breadcrumb > div {
+    overflow: hidden;
+    padding: 24px;
+    background-color: #FFF;
+}
+
+.kiaalap-breadcrumb > div .title {
+    float: left;
+    padding-top: 4px;
+}

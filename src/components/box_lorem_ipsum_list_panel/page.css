@@ -1,0 +1,26 @@
+.box-lorem-ipsum-list {
+    float: left;
+    width: 25%;
+}
+
+.box-lorem-ipsum-list > .inner {
+    margin: 0 12px;
+    background-color: #FFF;
+    text-align: center;
+}
+
+.box-lorem-ipsum-list > .inner .title {
+    padding: 12px 0;
+    color: #FFF;
+    font-size: 16px;
+}
+
+.box-lorem-ipsum-list > .inner .title div:first-child {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.box-lorem-ipsum-list > .inner .title div:last-child {
+    padding-top: 12px;
+    font-size: 14px;
+}

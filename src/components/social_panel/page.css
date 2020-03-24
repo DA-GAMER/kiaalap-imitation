@@ -1,0 +1,42 @@
+.social-panel {
+    width: 25%;
+    float: left;
+}
+
+.social-panel > .inner {
+    overflow: hidden;
+    margin: 0 12px;
+    background-color: #FFF;
+}
+
+.social-panel-img {
+    float: left;
+    padding: 12px 16px;
+    font-size: 48px;
+}
+
+.social-panel-content {
+    float: left;
+    padding-top: 24px;
+}
+
+.social-panel-content div:first-child {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.facebook .anticon {
+    color: #006DF0;
+}
+
+.twitter .anticon {
+    color: #933EC5;
+}
+
+.instagram .anticon {
+    color: #65b12d;
+}
+
+.youtube .anticon {
+    color: #D80027;
+}

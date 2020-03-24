@@ -1,0 +1,42 @@
+.activity {
+    overflow: hidden;
+    margin-bottom: 24px;
+}
+
+.activity > .img {
+    float: left;
+    width: 4%;
+}
+
+.activity > .img img {
+    width: 32px;
+    height: 32px;
+    border-radius: 32px;
+}
+
+.activity > .content {
+    float: left;
+    width: 96%;
+    background-color: #F6F6F6;
+}
+
+.activity > .content > div {
+    padding: 12px;
+}
+
+.activity > .content .title {
+    overflow: hidden;
+}
+
+.activity > .content .title > div:first-child {
+    float: left;
+    font-weight: bold;
+}
+
+.activity > .content .title > div:last-child {
+    float: right;
+}
+
+.activity > .content .ctx {
+    padding: 12px 0;
+}

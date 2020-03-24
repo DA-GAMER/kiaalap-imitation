@@ -1,0 +1,132 @@
+.kiaalap-professor-profile {
+    overflow: hidden;
+    padding: 12px 0;
+}
+
+.kiaalap-professor-profile .professor-profile-left {
+    float: left;
+    width: 30%;
+}
+
+.professor-profile-left > .inner {
+    margin: 0 12px;
+    background-color: #FFF;
+}
+
+.professor-profile-left .img {
+    padding: 24px;
+    text-align: center;
+}
+
+.professor-profile-left .img img {
+    width: 100%;
+}
+
+.professor-profile-table > div {
+    display: table;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.professor-profile-row {
+    display: table-row;
+}
+
+.professor-profile-row > div {
+    display: table-cell;
+}
+
+.professor-profile-header {
+    font-weight: bold;
+}
+
+.professor-profile-address {
+    text-align: center;
+}
+
+.professor-profile-address > div:first-child {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.professor-profile-attention {
+    overflow: hidden;
+    padding: 24px 0;
+    font-size: 20px;
+    text-align: center;
+}
+
+.professor-profile-attention > div {
+    float: left;
+    width: 33.33%;
+}
+
+.kiaalap-professor-profile .professor-profile-right {
+    float: right;
+    width: 70%;
+}
+
+.professor-profile-right {
+    padding: 0 12px;
+}
+
+.professor-profile-right > .inner {
+    padding: 12px;
+    background-color: #FFF;
+}
+
+.biography-table {
+    display: table;
+    width: 100%;
+}
+
+.biography-table > .biography-table-header {
+    display: table-row;
+}
+
+.biography-table > .biography-table-header > div {
+    display: table-cell;
+}
+
+.biography {
+    padding: 12px 0;
+}
+
+.biography > .title {
+    margin-bottom: 12px;
+    padding: 8px 0;
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 1px solid #999;
+}
+
+.update-details {
+
+}
+
+.update-details .btn-group {
+    overflow: hidden;
+}
+
+.update-details .btn-group > div:first-child {
+    float: left;
+    width: 50%;
+}
+
+.update-details .btn-group > div:last-child {
+    float: right;
+    width: 50%;
+}
+
+.update-details .btn-group > div .inner:first-child {
+    padding-right: 12px;
+}
+
+.update-details .btn-group > div .inner:last-child {
+    padding-left: 12px;
+}
+
+.update-details .btn-group > div .inner > div {
+    padding: 6px 0;
+}

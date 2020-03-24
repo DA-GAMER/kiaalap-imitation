@@ -1,0 +1,50 @@
+.teacher-panel {
+    float: left;
+    width: 33.33%;
+}
+
+.teacher-panel > .inner {
+    margin: 0 12px;
+    text-align: center;
+}
+
+.teacher-panel .teacher-img {
+    padding-top: 210px;
+}
+
+.teacher-panel .teacher-img img {
+    width: 90px;
+    height: 90px;
+    border-radius: 100px;
+}
+
+.teacher-contetn > div {
+    line-height: 1.8;
+}
+
+
+.teacher-contetn > .name {
+    padding: 4px 0;
+    line-height: 2;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.teacher-panel-follow-btn {
+    padding: 16px 0;
+}
+
+.teacher-panel-data {
+    overflow: hidden;
+    padding: 12px 0;
+}
+
+.teacher-panel-data > .item {
+    float: left;
+    width: 33.33%;
+}
+
+.teacher-panel-data > .item div:first-child {
+    font-weight: bold;
+    font-size: 24px;
+}

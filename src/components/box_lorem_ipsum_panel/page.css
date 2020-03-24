@@ -1,0 +1,32 @@
+.box-lorem-ipsum {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.box-lorem-ipsum > .inner {
+    margin: 0 12px;
+    padding: 12px;
+    background-color: #FFF;
+}
+
+.box-lorem-ipsum > .inner .title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.box-lorem-ipsum > .inner .icon {
+    padding: 24px 0;
+}
+
+.box-lorem-ipsum > .inner .icon .anticon {
+    font-size: 24px;
+}
+
+.box-lorem-ipsum > .inner .content {
+    text-align: left;
+}
+
+.box-lorem-ipsum > .inner .btn {
+    padding: 12px 0;
+}

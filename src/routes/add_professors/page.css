@@ -1,0 +1,41 @@
+.kiaalap-add-professors {
+    padding: 12px 0;
+}
+
+.kiaalap-add-professors > .inner {
+    margin: 0 12px;
+    padding: 24px;
+    background-color: #FFF;
+}
+
+.basic-information {
+    overflow: hidden;
+}
+
+.basic-information-left-tab {
+    float: left;
+    width: 50%;
+    padding: 4px 0;
+}
+
+.basic-information-left-tab > div {
+    padding: 6px 12px 6px 0;
+}
+
+.basic-information-right-tab {
+    float: right;
+    width: 50%;
+    padding: 4px 0;
+}
+
+.basic-information-right-tab  > div {
+    padding: 6px 0 6px 12px;
+}
+
+.account-information {
+    padding: 4px 0;
+}
+
+.account-information > div {
+    padding: 6px 0;
+}
